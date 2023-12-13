@@ -98,8 +98,8 @@ analytics:
 
 # Site Author
 author:
-  name: "M_mix Devlog" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  name: "m_mix" # 블로그 닉네임
+  avatar: "/assets/images/tape.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"
